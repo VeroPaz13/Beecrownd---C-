@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\2399-CampoMinado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\2399-CampoMinado.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\2399-CampoMinado.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\2399-CampoMinado.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\bin\Debug\net6.0\2399-CampoMinado.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\bin\Debug\net6.0\2399-CampoMinado.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\bin\Debug\net6.0\2399-CampoMinado.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\bin\Debug\net6.0\2399-CampoMinado.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\bin\Debug\net6.0\2399-CampoMinado.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\2399-CampoMinado.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\refint\2399-CampoMinado.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\2399-CampoMinado.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\2399-CampoMinado.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2399-CampoMinado\obj\Debug\net6.0\ref\2399-CampoMinado.dll

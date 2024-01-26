@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "2454-Beecrowd/1.0.0": {
+        "runtime": {
+          "2454-Beecrowd.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2454-Beecrowd/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

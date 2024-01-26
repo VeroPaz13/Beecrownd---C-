@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\bin\Debug\net6.0\1165-numeroPrimo.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\bin\Debug\net6.0\1165-numeroPrimo.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\bin\Debug\net6.0\1165-numeroPrimo.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\bin\Debug\net6.0\1165-numeroPrimo.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\bin\Debug\net6.0\1165-numeroPrimo.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\1165-numeroPrimo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\1165-numeroPrimo.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\1165-numeroPrimo.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\1165-numeroPrimo.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\1165-numeroPrimo.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\refint\1165-numeroPrimo.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\1165-numeroPrimo.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\1165-numeroPrimo.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1165-numeroPrimo\obj\Debug\net6.0\ref\1165-numeroPrimo.dll

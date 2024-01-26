@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\2242-risada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\2242-risada.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\2242-risada.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\2242-risada.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\bin\Debug\net6.0\2242-risada.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\bin\Debug\net6.0\2242-risada.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\bin\Debug\net6.0\2242-risada.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\bin\Debug\net6.0\2242-risada.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\bin\Debug\net6.0\2242-risada.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\2242-risada.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\refint\2242-risada.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\2242-risada.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\2242-risada.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2242-risada\obj\Debug\net6.0\ref\2242-risada.dll

@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\bin\Debug\net6.0\1041-CoordenadasUmPonto.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\bin\Debug\net6.0\1041-CoordenadasUmPonto.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\bin\Debug\net6.0\1041-CoordenadasUmPonto.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\bin\Debug\net6.0\1041-CoordenadasUmPonto.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\bin\Debug\net6.0\1041-CoordenadasUmPonto.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\1041-CoordenadasUmPonto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\1041-CoordenadasUmPonto.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\1041-CoordenadasUmPonto.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\1041-CoordenadasUmPonto.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\1041-CoordenadasUmPonto.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\refint\1041-CoordenadasUmPonto.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\1041-CoordenadasUmPonto.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\1041-CoordenadasUmPonto.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1041-CoordenadasUmPonto\obj\Debug\net6.0\ref\1041-CoordenadasUmPonto.dll

@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\1101-numerosSoma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\1101-numerosSoma.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\1101-numerosSoma.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\1101-numerosSoma.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\bin\Debug\net6.0\1101-numerosSoma.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\bin\Debug\net6.0\1101-numerosSoma.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\bin\Debug\net6.0\1101-numerosSoma.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\bin\Debug\net6.0\1101-numerosSoma.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\bin\Debug\net6.0\1101-numerosSoma.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\1101-numerosSoma.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\refint\1101-numerosSoma.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\1101-numerosSoma.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\1101-numerosSoma.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1101-numerosSoma\obj\Debug\net6.0\ref\1101-numerosSoma.dll

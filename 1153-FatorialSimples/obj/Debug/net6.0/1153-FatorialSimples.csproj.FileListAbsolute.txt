@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\bin\Debug\net6.0\1153-FatorialSimples.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\bin\Debug\net6.0\1153-FatorialSimples.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\bin\Debug\net6.0\1153-FatorialSimples.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\bin\Debug\net6.0\1153-FatorialSimples.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\bin\Debug\net6.0\1153-FatorialSimples.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\1153-FatorialSimples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\1153-FatorialSimples.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\1153-FatorialSimples.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\1153-FatorialSimples.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\1153-FatorialSimples.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\refint\1153-FatorialSimples.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\1153-FatorialSimples.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\1153-FatorialSimples.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1153-FatorialSimples\obj\Debug\net6.0\ref\1153-FatorialSimples.dll

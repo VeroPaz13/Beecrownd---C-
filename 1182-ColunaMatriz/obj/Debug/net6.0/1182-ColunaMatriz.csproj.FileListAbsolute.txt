@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\1182-ColunaMatriz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\1182-ColunaMatriz.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\1182-ColunaMatriz.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\1182-ColunaMatriz.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\bin\Debug\net6.0\1182-ColunaMatriz.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\bin\Debug\net6.0\1182-ColunaMatriz.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\bin\Debug\net6.0\1182-ColunaMatriz.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\bin\Debug\net6.0\1182-ColunaMatriz.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\bin\Debug\net6.0\1182-ColunaMatriz.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\1182-ColunaMatriz.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\refint\1182-ColunaMatriz.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\1182-ColunaMatriz.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\1182-ColunaMatriz.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1182-ColunaMatriz\obj\Debug\net6.0\ref\1182-ColunaMatriz.dll

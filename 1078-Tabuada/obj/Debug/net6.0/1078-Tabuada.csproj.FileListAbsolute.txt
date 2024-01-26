@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\1078-Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\1078-Tabuada.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\1078-Tabuada.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\1078-Tabuada.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\bin\Debug\net6.0\1078-Tabuada.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\bin\Debug\net6.0\1078-Tabuada.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\bin\Debug\net6.0\1078-Tabuada.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\bin\Debug\net6.0\1078-Tabuada.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\bin\Debug\net6.0\1078-Tabuada.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\1078-Tabuada.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\refint\1078-Tabuada.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\1078-Tabuada.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\1078-Tabuada.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\1078-Tabuada\obj\Debug\net6.0\ref\1078-Tabuada.dll

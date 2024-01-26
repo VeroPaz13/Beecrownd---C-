@@ -1,0 +1,14 @@
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\2454-Beecrowd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\2454-Beecrowd.AssemblyInfoInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\2454-Beecrowd.AssemblyInfo.cs
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\2454-Beecrowd.csproj.CoreCompileInputs.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\bin\Debug\net6.0\2454-Beecrowd.exe
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\bin\Debug\net6.0\2454-Beecrowd.deps.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\bin\Debug\net6.0\2454-Beecrowd.runtimeconfig.json
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\bin\Debug\net6.0\2454-Beecrowd.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\bin\Debug\net6.0\2454-Beecrowd.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\2454-Beecrowd.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\refint\2454-Beecrowd.dll
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\2454-Beecrowd.pdb
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\2454-Beecrowd.genruntimeconfig.cache
+C:\Veronica\SharpCoders2023\C#\ProjetosC#\Beegrowd\2454-Beecrowd\obj\Debug\net6.0\ref\2454-Beecrowd.dll
